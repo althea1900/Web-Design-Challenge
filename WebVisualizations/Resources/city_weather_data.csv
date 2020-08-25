@@ -1,4 +1,4 @@
-,city,Longitude,Latitude,Max Temp,Humidity,Clouds,Wind Speed,Country,Date Time
+id,city,Longitude,Latitude,Max Temp,Humidity,Clouds,Wind Speed,Country,Date Time
 0,cabo san lucas,-109.91,22.89,96.8,42,40,13.87,MX,1594071431
 1,hokitika,170.97,-42.72,47.95,84,67,4.7,NZ,1594071613
 2,leningradskiy,178.42,69.38,46.74,77,97,5.91,RU,1594071613
